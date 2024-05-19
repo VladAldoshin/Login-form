@@ -108,10 +108,10 @@ a:hover {
   animation: fish 3s forwards ease-in-out;
 }
 .fish path, .fish-shadow path {
-  fill: #fff;
+  fill: blue;
 }
 .fish path:hover, .fish-shadow path:hover {
-  fill: #ff6100;
+  fill: yellow;
 }
 .fish .line, .fish-shadow .line {
   fill: none;
@@ -284,3 +284,6 @@ a:hover {
 }
 
 
+
+
+ 
